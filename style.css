@@ -54,7 +54,7 @@ p{
 }
 
 
-TAB
+/* TAB
 @media(min-width:768px){
 
 }
@@ -62,7 +62,7 @@ TAB
 /* DESKTOP */
 @media(min-width:1024px){
 
-}
+} */
 
 .abt{
     color: aliceblue;
